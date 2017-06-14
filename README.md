@@ -50,7 +50,7 @@ from (
 ### How to run code?
 This code is written in **python3.6**. Though it is highly likely compatible with earlier versions of **python3.x**. I haven't tested them in all environments. There is no guarantee this code would work in **python2**.
 
-In order to analyse the data we need to populate the data in the database. Connect to fulstack vagrant box and navigate to `/vagrant` directory.
+In order to analyse the data we need to populate the data in the database. Connect to fullstack vagrant box and navigate to `/vagrant` directory.
 ```sh
 $ vagrant ssh
 $ cd /vagrant
